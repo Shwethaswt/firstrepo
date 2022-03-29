@@ -1,0 +1,16 @@
+installation of git 
+install git software
+open git hub sign up your account
+email id : kshwetha7789@gmail.coom
+password: Shwetha@97
+open installed git 
+follow these steps
+cd (current directory)
+cd /f
+ls
+cd trailg/
+git config --global user.name"shwetha"
+git config --global user.email kshwetha7789@gmail.com
+git config --global --list
+user name=shwetha
+user email=kshwetha7789@gmail.com
